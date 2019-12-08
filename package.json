@@ -1,0 +1,19 @@
+{
+  "name": "koa-to-serve-static",
+  "version": "0.0.0",
+  "description": "koa-to-serve-static",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugen35/koa-to-serve-static.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/eugen35/koa-to-serve-static#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-send": "^5.0.0"
+  },
+  "devDependencies": {}
+}

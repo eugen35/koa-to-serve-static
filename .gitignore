@@ -1,0 +1,21 @@
+#node modules
+node_modules
+
+#npm
+npm-debug.log*
+package-lock.json
+
+#yarn
+yarn.lock
+
+#webstorm
+.idea
+
+#Автогенерируемая документация
+__doc__/auto_generated/*
+
+#моя временная заглушка для env
+#env_gitignored.js - в проекте нужно раскомментировать
+
+#bundle for index.html
+static/js/bundle.js
