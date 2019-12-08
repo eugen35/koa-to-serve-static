@@ -13,6 +13,7 @@
   "homepage": "https://github.com/eugen35/koa-to-serve-static#readme",
   "dependencies": {
     "koa": "^2.11.0",
+    "koa-ejs": "^4.3.0",
     "koa-send": "^5.0.0"
   },
   "devDependencies": {}
